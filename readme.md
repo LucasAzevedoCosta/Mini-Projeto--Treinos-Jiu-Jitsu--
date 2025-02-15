@@ -49,7 +49,6 @@ O projeto foi desenvolvido com uma estrutura modular para facilitar futuras expa
 mini_projeto_treinos_jiu_jitsu/
 │-- core/              # Configurações principais do Django
 │-- treino/            # Aplicação para gerenciamento de treinos
-│-- db.sqlite3         # Banco de dados SQLite (não deve ser versionado)
 │-- manage.py          # Arquivo de gerenciamento do Django
 │-- requirements.txt   # Lista de dependências do projeto
 ```
