@@ -4,13 +4,13 @@ Este é um projeto simples desenvolvido com Django para gerenciar treinos de Jiu
 
 O projeto foi desenvolvido com uma estrutura modular para facilitar futuras expansões, permitindo que novos recursos sejam adicionados conforme necessário. Ele é uma ótima base para quem deseja aprender mais sobre Django e o desenvolvimento de APIs RESTful, utilizando boas práticas de organização e separação de responsabilidades.
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - Python 3
 - Django
 - Django REST Framework
 - SQLite (banco de dados padrão, mas pode ser alterado)
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Cadastro de treinos com informações detalhadas
 - Listagem de treinos com filtros para melhor organização
 - API para interação com os treinos através de endpoints REST
@@ -18,7 +18,7 @@ O projeto foi desenvolvido com uma estrutura modular para facilitar futuras expa
 - Banco de dados SQLite como opção padrão, com possibilidade de alteração para outros bancos
 - Configuração mínima para rápida instalação e uso
 
-## Como Executar o Projeto
+## 📂 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/treinos-jiu-jitsu.git
@@ -53,5 +53,5 @@ mini_projeto_treinos_jiu_jitsu/
 │-- requirements.txt   # Lista de dependências do projeto
 ```
 
-## Observação
+## ⚠️ Observação
 Se estiver utilizando Windows, evite usar o Python 3.13.0, pois pode causar incompatibilidades com algumas bibliotecas do Django.
