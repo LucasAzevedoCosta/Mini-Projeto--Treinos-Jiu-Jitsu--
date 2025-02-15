@@ -1,4 +1,4 @@
-# 📌 Treinos de Jiu-Jitsu 🥋
+# Treinos de Jiu-Jitsu 🥋
 
 Este é um projeto simples desenvolvido com Django para gerenciar treinos de Jiu-Jitsu. O objetivo do projeto é oferecer uma API para cadastrar, listar e gerenciar treinos, facilitando o acompanhamento dos treinos realizados. Além disso, o sistema permite que os usuários armazenem informações detalhadas sobre cada treino, como data, duração, técnicas praticadas e observações adicionais.
 
